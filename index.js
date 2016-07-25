@@ -8,4 +8,4 @@ if (!ipAddress) {
   ipAddress = "127.0.0.1";
 }
 
-http.createServer((req, res) => { res.end(); }).listen(port, ipAddress);
+http.createServer((req, res) => res.end()).listen(port, ipAddress);
