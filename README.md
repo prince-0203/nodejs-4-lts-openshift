@@ -1,4 +1,4 @@
-# OpenShift上のNode.jsを使用したTwitterBotのサンプル
+# OpenShift上のNode.jsを使用したアプリケーションのサンプル
 
 ## 使い方
 ### 1. Node.jsのバージョンを指定
